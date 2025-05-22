@@ -1,5 +1,6 @@
 const firebaseConfig = {
 
+    // This apikey needs to be private. Have to find a solution.
     apiKey: "AIzaSyAeMludBbPBXLxdSq5gThV6rffcdTChUOU",
 
     authDomain: "contactform-3bae0.firebaseapp.com",
